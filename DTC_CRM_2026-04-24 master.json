@@ -1,0 +1,142 @@
+{
+  "deals": [
+    {
+      "id": "justin-notland-2000",
+      "address": "2000 Notland Ct, Fayetteville, NC 28304",
+      "county": "Cumberland",
+      "state": "NC",
+      "owner": "Justin Paul - Sole Heir, Estate of Margaret J. Paul",
+      "email": "justinjeanpaul2001@gmail.com",
+      "phone": "910-354-9100",
+      "type": "probate",
+      "stage": "7",
+      "market": "375000",
+      "debt": "16000",
+      "purchase": "0",
+      "closePrice": "280000",
+      "source": "tax-list",
+      "followup": "2026-05-01",
+      "priority": "hot",
+      "split": "50",
+      "driveLink": "https://drive.google.com/drive/folders/1WKjC7HclMKz9nYFrLH9KY4EP8qAW_ATl?usp=drive_link",
+      "noteTitle": "JV Settlement Agreement signed 3/11/2026 - DocuSign Envelope 62CEA36A-F67D-85AF-801A-8D96CDF68606. Justin Paul sole heir - brother predeceased mother Margaret J. Paul. Probate initiated Cumberland County NC. Irrevocable POA granted to DTC. Memorandum of JV recorded. All DTC expenses reimbursed from HUD before 50/50 split. Back taxes ~$16,000 paid at closing. NO buyer agent commission. Under contract at $280,000. Parcel: 9496-96-3071",
+      "noteCall": "JV signed 3/11/2026. Cullen Eggleston signed on behalf of DTC. Manager Authorization Resolution drafted.",
+      "nextAction": "Monitor probate completion Cumberland County Superior Court. Pay back taxes $16,000 from HUD at closing. No buyer agent commission.",
+      "legalDesc": "2000 Notland Ct, Fayetteville NC 28304 - Parcel No. 9496-96-3071",
+      "parcel": "9496-96-3071",
+      "tip": {
+        "addr": true,
+        "assessor": true,
+        "tax": true,
+        "recorder": true,
+        "chain": true,
+        "liens": true,
+        "court": true,
+        "heirs": true,
+        "dm": true,
+        "skip": true,
+        "equity": true,
+        "cure": true,
+        "pain": true,
+        "offer": true,
+        "contract": true
+      },
+      "expenses": [
+        {
+          "id": "e1",
+          "category": "Attorney",
+          "desc": "Attorney fees",
+          "amount": 3090,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e2",
+          "category": "Filing Fees",
+          "desc": "Law service",
+          "amount": 810,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e3",
+          "category": "Filing Fees",
+          "desc": "File docs",
+          "amount": 77,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e4",
+          "category": "Notary",
+          "desc": "Notary fees",
+          "amount": 77,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e5",
+          "category": "Locksmith",
+          "desc": "Locksmith",
+          "amount": 137.5,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e6",
+          "category": "Repairs",
+          "desc": "Window repair",
+          "amount": 80,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e7",
+          "category": "Filing Fees",
+          "desc": "Deed file",
+          "amount": 29,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "e8",
+          "category": "UPS/Shipping",
+          "desc": "UPS fees",
+          "amount": 27.45,
+          "date": "2026-03-11",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "modi2o88n1lw240chtr",
+          "category": "UPS/Shipping",
+          "desc": "QC to Attorney",
+          "amount": 42.74,
+          "date": "2026-04-24",
+          "addedBy": "Robert Davenport"
+        },
+        {
+          "id": "modi32ykmb5rf0hb5hg",
+          "category": "Notary",
+          "desc": "For QC Deed",
+          "amount": 75,
+          "date": "2026-04-24",
+          "addedBy": "Robert Davenport"
+        }
+      ],
+      "editedBy": "Robert Davenport",
+      "updatedAt": "2026-04-24T22:47:29.927Z",
+      "createdAt": "2026-03-11T00:00:00.000Z"
+    }
+  ],
+  "activity": [
+    {
+      "id": "modi3ngnyf9um4dweu",
+      "user": "Robert Davenport",
+      "action": "Updated deal",
+      "deal": "2000 Notland Ct, Fayetteville, NC 28304",
+      "time": "2026-04-24T22:47:29.927Z"
+    }
+  ],
+  "by": "Robert Davenport",
+  "at": "2026-04-24T22:47:36.467Z"
+}
